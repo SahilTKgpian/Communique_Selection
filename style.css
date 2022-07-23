@@ -1,0 +1,198 @@
+/* main-container = container-5 */
+/* https://th.bing.com/th/id/OIP.y26tJZGPDR1EQk0nHvozUQHaCD?w=325&h=97&c=7&r=0&o=5&dpr=1.25&pid=1.7 */
+body{
+    background-color: white;
+    margin: 0px 0px;
+}
+.container{
+    display: flex;
+    float: center;
+    padding: 10px 10px;
+}
+.box{
+    padding: 10px 20px;
+    margin: 5px 10px;
+}
+.box-A{
+    float: right;
+    padding: 5px 10px;
+    margin-top: 10px;
+    margin-bottom: 1px;
+    margin-left: 15px;
+    margin-right: 1px;
+    text-align: right;
+    border-color: black;
+    border-style: solid;
+    border-radius: 5px;
+    border-width: 1px;
+}
+.box-B{
+    float: right;
+    padding: 5px 20px;
+    margin-top: 10px;
+    margin-bottom: 1px;
+    margin-left: 1px;
+    margin-right: 0px;
+    text-align: right;
+    border-color: black;
+    border-style: solid;
+    border-radius: 5px;
+    border-width: 1px;
+}
+.container-2{
+    display: flex;
+    padding: 20px 10px;
+    background-image: url(https://th.bing.com/th/id/R.19dbe5baca7adcb74741b3bded3364e4?rik=JUqIJs%2bMKlayHw&riu=http%3a%2f%2fwallup.net%2fwp-content%2fuploads%2f2015%2f12%2f258088-sunset-landscape-horizon.jpg&ehk=SLVNJeWGlQTp2U%2bdVbVAwCGvzuCDbJxAfV4HtvNFkSs%3d&risl=&pid=ImgRaw&r=0);
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 0px 0px;
+    height: 330px;
+    background-size: cover;
+}
+.box-2{
+    padding: 0px 10px;
+    color: white;
+    margin-top: 2px;
+    margin-bottom: 0px;
+    margin-left: 100px;
+    margin-right: 0px;
+    font-size: 30px;
+    text-align: left;
+    width: 100%;
+}
+.image{
+    height: 40px;
+    width: 150px;
+}
+.container-3{
+    color: white;
+    margin-top: 0px;
+    margin-left: 100px;
+    margin-right: 0px;
+    margin-bottom: auto;
+    width: 84%;
+    height: 80%;
+    padding: 10px 10px;
+    background-color: rgba(0, 0, 0, 0.742);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    align-items: center;
+    align-content: center;
+    display: grid;
+}
+.container-4{
+    display: flex;
+    padding: 10px 10px;
+    position: relative;
+}
+.box-3{
+    padding: 5px 5px;
+    margin: 5px 15px;
+    color: white;
+    text-decoration: none;
+}
+.box-4{
+    text-align: left ;
+    display: flex;
+    padding: 10px 0px;
+    margin-top: 30px;
+
+}
+.search-option{
+    text-align: center;
+    background-color: white;
+    height: 40px;
+    overflow: hidden;
+    padding-left: 0px;
+    margin-right: 20px;
+    margin-left: 70px;
+    margin-top: 40px;
+    width: fit-content;
+    position: relative;
+    display: inline-block;
+}
+.container-5{
+    display: flex;
+    border-color: black;
+    border-style: solid;
+    padding: 0px 0px ;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    width: 40%;
+    margin-left: 0px;
+    margin-right: 90px;
+}
+.box-5{
+    border: 10px;
+    border-color: black;
+    background-color: white;
+    border-style: solid;
+    width: 100%;
+    margin: 0px 0px;
+    text-align: center;
+    padding: 15px auto;
+}
+.main-container{
+    margin-right: 0px;
+}
+main a:hover {
+    background-color: rgb(252, 33, 33);
+    overflow: hidden;
+}
+.resume-upload{
+    text-decoration: none;
+}
+#box-5b{
+}
+a[href="something-1"]:hover{
+    background-color: rgba(230, 191, 18, 0.573);
+    color: rgb(249, 154, 0);
+    font-weight: bold;
+    text-decoration: none;
+}
+a[href="something-2"]:hover{
+    background-color: rgba(230, 191, 18, 0.573);
+    color: rgb(249, 154, 0);
+    font-weight: bold;
+    text-decoration: none;
+}
+a[href="something-3"]:hover{
+    background-color: rgba(230, 191, 18, 0.573);
+    color: rgb(249, 154, 0);
+    font-weight: bold;
+    text-decoration: none;
+}
+a[href="something-4"]:hover{
+    background-color: rgba(230, 191, 18, 0.573);
+    color: rgb(249, 154, 0);
+    font-weight: bold;
+    text-decoration: none;
+}
+a[href="something-5"]:hover{
+    background-color: rgba(230, 191, 18, 0.573);
+    color: rgb(249, 154, 0);
+    font-weight: bold;
+    text-decoration: none;
+}
+
+header a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+.side-container{
+    display: flex;
+}
+a[href="everything-1"]:hover{
+    text-decoration-color: black;
+    text-decoration: underline;
+    display: inline-block;
+}
+a[href="everything-2"]:hover{
+    display: inline-block;
+    text-decoration-color: black;
+    text-decoration: underline;
+}
+a[href="#resume"]:hover{
+    text-decoration: underline;
+    text-decoration-color: rgb(252, 135, 2);
+}
